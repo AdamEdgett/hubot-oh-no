@@ -1,0 +1,8 @@
+{
+  "name": "hubot-oh-no",
+  "version": "1.0.0",
+  "description": "",
+  "main": "oh-no.coffee",
+  "author": "Adam Edgett <Adam.Edgett@gmail.com> (http://adamedgett.com/)",
+  "license": "MIT"
+}
